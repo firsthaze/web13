@@ -1,0 +1,279 @@
+@media screen and (min-width: 768px) and (max-width:1280px){
+body{
+  margin: 0px;
+  background-color: rgb(190,190,190);
+}
+
+footer{
+   width:100%;
+   height: 64px;
+   background-color: rgb(95,95,95);
+   display: inline-block;
+   margin: 0px;
+}
+
+.backgroundset{
+  width: 100%;
+  height: 190px;
+  background-color: rgb(95,95,95);
+  display: inline-block;
+  float: left;
+  margin: 0px;
+}
+
+.backgr2{
+  width:66px;
+  height:1653px;
+  background-color: rgb(240,236,225);
+  opacity: 50%;
+  display: inline-block;
+  margin-left: 36px;
+  float: left;
+}
+
+.nav{
+  width: 100%;
+  height: 26px;
+  background-color: rgb(95,95,95);
+  display: none;
+  float: left;
+  margin: 0px;
+}
+
+.sub{
+  width: 100%;
+  height: 670px;
+  display: inline-block;
+  float: left;
+}
+
+.chesspic{
+  width: 100%;
+  height: 164px;
+  display: inline-block;
+  float: left;
+}
+
+.shop1{
+  width: 21%;
+  height: 384px;
+  margin-left: 3.6111%;
+  margin-top: 22px;
+  float: left;
+  display: inline-block;
+}
+
+.shop2{
+  width: 21%;
+  height: 384px;
+  margin-left:3.6111%;
+  margin-top: 22px;
+  float: left;
+  display: inline-block;
+}
+
+.shop3{
+  width: 21%;
+  height: 384px;
+  margin-left:3.6111%;
+  margin-top: 22px;
+  float: left;
+  display: inline-block;
+}
+
+.shop4{
+  width: 21%;
+  height: 384px;
+  margin-left:3.6111%;
+  margin-top: 22px;
+  float: left;
+  display: inline-block;
+}
+
+.sidebar{
+  width:100%;
+  height: 212px;
+  background-color: rgb(255,255,255);
+  font-weight: bold;
+}
+
+.sidebar p{
+  margin-left: 25%;
+  font-size: 26px;
+  font-family: Calibri;
+}
+
+.sidebar span{
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: Calibri;
+  font-size: 20px;
+  color: rgb(95,95,95);
+
+}
+
+.line{
+    border: #000000 5px solid;
+    margin-top: 665px;
+}
+
+.copy{
+  color: #000000;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 20px;
+  margin-left: 4.1666%;
+  margin-top: 20px;
+  display: inline-block;
+  float: left;
+}
+
+.designer{
+  color: #000000;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 20px;
+  margin-right: 150px;
+  margin-top: 30px;
+  margin-left: 442px;
+  display: none;
+
+}
+
+.contline{
+  border:  #000000 1px solid;
+}
+
+#hambuger{
+  width: 5.3%;
+  margin-left: 5.9%;
+  margin-top: 0.77%;
+  float: left;
+  display: none;
+}
+
+#logo{
+  width: 37.777%;
+  margin-left: 0px;
+  margin-top: 17px;
+  margin-bottom: 30px;
+  display: inline-block;
+  float: left;
+}
+
+#twitter{
+  height:64px;
+  margin-top: 25px;
+  margin-right: 161px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  float:left;
+  display: none;
+}
+
+#facebook{
+  height:64px;
+  margin-top: 25px;
+  margin-right: 36px;
+  margin-left: 640px;
+  margin-bottom: 20px;
+  float:left;
+  display: none;
+}
+
+#About{
+  height:58px;
+  width:202px;
+  margin-right:0px;
+  margin-top: 108px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  background-color: rgb(255,255,255);
+  float: right;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#About p{
+  font-size: 30px;
+  font-family: Segoe UI Black ,Arail;
+  margin :10px 35px 10px 45px;
+  padding: 0px;
+}
+
+#Home{
+  height:58px;
+  width:202px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  margin-left: 7.2222%;
+  margin-top: 108px;
+  background-color: rgb(255,255,255);
+  float: left;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#Home p{
+  font-size: 30px;
+  font-family: Segoe UI Black ,Arail;
+  margin :10px 30px 10px 50px;
+  padding: 0px;
+}
+
+#mainpic{
+  width:100%;
+  margin :0px;
+  border-bottom: #000000 5px solid;
+}
+
+#ruler{
+  float: left;
+  background-color: rgb(255,255,255);
+}
+
+#saber{
+  float: left;
+  background-color: rgb(255,255,255);
+}
+
+#assasin{
+  float: left;
+  background-color: rgb(255,255,255);
+}
+
+#archer{
+  float: left;
+  background-color: rgb(255,255,255);
+}
+
+#cont1{
+  margin-top: 52px;
+  margin-left: 0px;
+  display: inline-block;
+  float: left;
+}
+
+
+#cont2{
+  margin-top: 52px;
+  margin-left: 0px;
+  display: inline-block;
+  float: left;
+}
+
+#cont3{
+  margin-top: 52px;
+  margin-left: 0px;
+  display: inline-block;
+  float: left;
+}
+
+#cont4{
+  margin-top: 52px;
+  margin-left: 0px;
+  display: inline-block;
+  float: left;
+}
+
+}
